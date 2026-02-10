@@ -1,2 +1,2 @@
-# Semantic_html
-Basic html article
+# Semantic_HTML
+Basic HTML article
